@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   pass
 
@@ -131,7 +131,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      pass
+      TBD
 
 # Footer
 footer_show_references: true
