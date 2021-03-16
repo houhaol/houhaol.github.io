@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 #
 # By default, content added below the "---" mark will appear in the home page
@@ -7,3 +8,8 @@
 #
 layout: default
 ---
+=======
+## Houhao Liang
+
+### Hello world
+>>>>>>> e7e12b2704b3c97f81e7b8be8bf92ff1cff3b0a1
