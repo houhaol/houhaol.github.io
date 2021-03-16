@@ -103,7 +103,7 @@ content:
   - title: Teaching Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         # title: The Boring Company
         # link: boringcompany.com
         # # link_text: boringcompany.com
@@ -112,12 +112,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            TBD
+          TBD
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         # title: The Boring Company
         # link: boringcompany.com
         # # link_text: boringcompany.com
@@ -126,7 +126,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            TBD
+          TBD
 
   - title: A Little More About Me
     layout: text
