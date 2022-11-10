@@ -446,6 +446,7 @@ main {
 .map-box {
   /* background: var(--bg-gradient-onyx); */
   border-radius: 30px;
+  align-items: center;
 }
 
 .map-item {
